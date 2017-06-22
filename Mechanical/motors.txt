@@ -1,0 +1,9 @@
+The motors used for QuadBot are...
+
+Feetech FS90 servo.
+
+You can buy them from multiple places, including...
+
+https://www.pololu.com/product/2818
+https://www.rapidonline.com/feetech-fs90r-360-continuous-rotation-micro-servo-37-1335
+https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html
