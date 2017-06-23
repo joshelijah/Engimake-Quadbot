@@ -5,7 +5,7 @@ The design and software files for the Engimake QuadBot. An open source, four-leg
 2) The Mechanical design files
 3) The PCB layout
 
-These files are presented as-is, and are not in a finished state. You'll need to apply initiative to fill in any gaps, this is not a step by step guide! That said these files are the basis of what you'll need to build a working QuadBot.
+These files are presented as-is, and are not in a finished state. You'll need to apply initiative to fill in any gaps, this is not a step by step guide! That said these files are the basis of what you'll need to build a working QuadBot.Producing  / manufacturing or creating an object from any of the included design files is expressly at your own risk.
 
 ## Getting Started
 
